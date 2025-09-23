@@ -24,9 +24,12 @@
 
 ### 💫 **What I Do:**
 - 💻 **Software Development** - Crafting robust applications
+- 📱 **Mobile Application Development** - Building intuitive and engaging mobile experiences
 - 🎬 **Video Content Creation** - Bringing ideas to visual life
 - 🎞️ **Video Editing** - Storytelling through motion graphics
 - 🔍 **Quality Assurance** - Ensuring seamless user experiences
+- ✍️ **Researching** - Gathering insights and data to inform strategy and development
+- 🎮 **Game Development** - Designing and creating interactive entertainment
 - 📱 **Social Media Management** - Digital presence optimization
 
 ---
