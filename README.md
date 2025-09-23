@@ -15,7 +15,7 @@
 
 ## 🌟 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU4M3NtaTRuYmFneHR5MW9rc2NtZGttNDYxMHR4azdqaWNvazF6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 🌍 **Location:** Mathugama, Sri Lanka  
 📧 **Email:** chamudithashahan@gmail.com  
