@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌍 **Location:** Kandy, Sri Lanka  
+🌍 **Location:** Mathugama, Sri Lanka  
 📧 **Email:** chamudithashahan@gmail.com  
 🧠 **Currently Learning:** MERN Stack Development  
 🎯 **Goal:** Building scalable and user-friendly applications  
@@ -76,6 +76,20 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+### Vibe Coding Platforms
+<p>
+  <img src="https://img.shields.io/badge/Courser-0056D2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt-FFCC00?style=for-the-badge&logo=zap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tempo%20Labs-7B61FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-00A8E8?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base44-444444?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memex-00897B?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+
 </div>
 
 ---
@@ -118,7 +132,7 @@
 </div>
 
 
-## 📈 **Contribution Graph**
+## 📈 Contribution Graph
 
 <div align="center">
 <picture>
@@ -126,7 +140,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChamudithaShehan/ChamudithaShehan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChamudithaShehan/ChamudithaShehan/output/pacman-contribution-graph.svg">
 </picture>
-
+</div>
 ###
 
 ---
